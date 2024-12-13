@@ -1,1 +1,1 @@
-## A seven up desktop front page clone. Designed as at August 2022 with HTML & CSS
+## A seven up desktop front page clone. Designed August 2022 with HTML & CSS
