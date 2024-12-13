@@ -528,3 +528,13 @@ ul .fl {
 .footerlinks li{
     font-size: large;
 }
+
+
+/*****************************  MEDIA QUERIES  ******************************/
+@media (max-width: 1024px) {
+    .carousel {
+        display:block;
+        width: 100%;
+    }
+    
+}
